@@ -36,5 +36,7 @@
         "FARGATE"
     ],
     "cpu": "1024",
+    
+    fdsfs
     "memory": "2048"
 }
